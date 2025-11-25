@@ -2,7 +2,7 @@
 
 Este proyecto integra Python , MySQL y Power BI para analizar la relación entre Bitcoin y activos tradicionales como oro , petróleo y el índice S&P500 , con el objetivo de evaluar su rendimiento, volatilidad y valoración durante el periodo 2020–2024.
 
-🧠 Objetivo del proyecto:
+🧠 Objetivo del proyecto
 
 El propósito principal es comprender cómo se comportan las criptomonedas frente a activos financieros tradicionales bajo distintas condiciones de mercado.
 El análisis busca responder preguntas claves como:
